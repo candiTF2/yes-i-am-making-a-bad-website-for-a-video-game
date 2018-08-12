@@ -1,0 +1,25 @@
+<html>
+	<head>
+		<style type="text/css">
+			body {
+				background-color:#b0bac1;
+                                color:#42474e;
+                                font-family:Lucida Sans Unicode;
+			}
+		</style>	
+	</head>
+                  
+	<body>
+         <center>
+                <img src="banner.png"></br>
+          
+                <a href="https://www.youtube.com/channel/UCEZve9o7ltR1IQs6Xf1mp3Q"><img src="youtube.png"></a> <a href="https://steamcommunity.com/id/thatweirdidiot/"><img src="steam.png"></a> <a href="https://www.paypal.me/DanHasADonation"><img src="donate.png"></a>
+                
+                <div style="width: 650px;">
+                <div style="width: 300px; display: inline-block; float: left; text-align: left;"> Welcome to Plug it In, a battlefield of friendlies, enemies, and plug-ins!&nbsp;&nbsp;<b> created by Dan </b></div>
+                <div style="width: 300px; display: inline-block; float: right; text-align: right;"><b>Commands can be found here:</b></br></br> <a href="https://pastebin.com/CJ4pb9WJ"><img src="commands.png"></a>
+                </div>
+
+        </center>
+	</body>
+</html>
